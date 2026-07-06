@@ -38,3 +38,4 @@
 - docs: add a note about the defaults
 - docs: link the usage section
 - chore: clarify the setup steps
+- chore: clarify the setup steps
