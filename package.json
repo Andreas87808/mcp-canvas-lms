@@ -1,6 +1,6 @@
 {
   "name": "mcp-canvas-lms",
-  "version": "0.1.33",
+  "version": "0.1.34",
   "description": "Version 2.2 - 54 tools available - an MCP server for interacting with the Canvas LMS API. This server allows you to manage courses, assignments, enrollments, and grades within Canvas.",
   "main": "src/index.js",
   "scripts": {
